@@ -1,5 +1,5 @@
 # Walk Tours
-[CLICK HERE to View the Project Published](https://fredericoalves.uk/walktours/) <br>
+[CLICK HERE to View the Project Published](http://fredericoalves.uk/walktours/) <br>
 Landing page made with SASS and Advanced CSS3<br>
 
 ![cover](https://user-images.githubusercontent.com/31135848/35185384-8d21e402-fdfb-11e7-86af-a321995d6eb0.png)
