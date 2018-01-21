@@ -23,14 +23,14 @@ All the latest techniques for CSS applied in this project
 ![responsive](https://user-images.githubusercontent.com/31135848/35185387-8d83168c-fdfb-11e7-9c95-5a73c3012ca1.png)
 
 # Responsive Images
-Media Queries, that allows the page to use different CSS style rules, is just the point of start for the across device's responsiveness.<br>
-In this project, images are responsive as well powered by HTML5 latest feautures, which measures the pixel density of the screen device and downloads only the image needed with the perfect resolution.<br>
+Media Queries, which allows the page to use different CSS style rules is just the starting point for across devices responsiveness.<br>
+In this project, images are responsive as well powered by the HTML5 latest feautures, which measures the pixel density of the screen device and downloads only the image needed with the perfect resolution.<br>
 
 ![html code](https://user-images.githubusercontent.com/31135848/35185603-5a2fe7b6-fdff-11e7-997f-c2c7a6675a79.png)
 ![mobile](https://user-images.githubusercontent.com/31135848/35185386-8d54ef50-fdfb-11e7-905d-f6b53291d261.png)
 
 # The Power of SASS
-SASS is a CSS pre-processor that extendes the default styling features with variables, functions, mixins and many more other usable assets in the development process.<br>
+SASS is a CSS pre-processor that extends the default styling features with variables, functions, mixins and many more other usable assets in the development process.<br>
 
 ![sass_env](https://user-images.githubusercontent.com/31135848/35185795-85511378-fe01-11e7-98ea-90016ca2ca2b.png)
 
@@ -50,4 +50,4 @@ Node Package Manager allows developers covert .scss (sass) files in .css with so
 
 ![finale](https://user-images.githubusercontent.com/31135848/35186001-f6c75668-fe04-11e7-975e-4b3b902c18f4.png)
 
-To get more information on the Walk Tour project please feel free to message me or email to fredericoalvesJS@gmail.com or contact@fredericoalves.uk
+To get more information on the Walk Tour project please feel free to message me or email fredericoalvesJS@gmail.com or contact@fredericoalves.uk
